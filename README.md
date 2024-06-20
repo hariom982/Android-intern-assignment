@@ -1,5 +1,5 @@
 
-# To-Do List (Android internship assignment)
+# To-Do List
 
 This Java application powered by SQLite database is designed to streamline your task management process. Whether you're organizing your daily chores, planning projects, or simply jotting down ideas, this app provides a user-friendly interface and robust functionality to help you stay organized and focused.
 
